@@ -9,4 +9,3 @@ plagiarism checker using python nltk
 # Usage
 - python3 plagiarism_checker.py
 
-![Alt Text] (https://github.com/sundar2001/Plagiarism_checker/blob/main/plagiarism_checker.mkv)
